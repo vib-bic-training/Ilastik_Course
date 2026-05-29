@@ -27,14 +27,14 @@ Install the latest stable version of FIJI in the `C:\GBW_MyPrograms` if the comp
 2. Go to Help → Update...
 3. Apply all updates and restart FIJI
 
-## FIJI Ilastik plug-in
+## Installing Ilastik and Morpholibj plug-ins
 Follow the instructions here: https://www.ilastik.org/documentation/fiji_export/plugin
 *FIJI and Ilastik need to be already installed*
 
 1. Open FIJI
 2. Go to Help → Update...
 3. Click Manage update sites
-4. Enable the "ilastik" update site
+4. Enable the "ilastik" and "IJPB-Plugins" update sites
 5. Apply changes and restart FIJI
 6. We will configure the plug-in in the course to finalize the installation
 
