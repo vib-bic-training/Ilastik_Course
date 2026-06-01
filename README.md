@@ -4,7 +4,7 @@ If you have a KU Leuven PC, install both Ilastik and FIJI in `C:\GBW_MyPrograms`
 
 ## Ilastik installation
 Follow the instructions here: https://www.ilastik.org/documentation/basics/installation
-Install the latest stable version 1.4.1
+Install version 1.4.1 (Release 1.4.1.post1 (31. May 2025)). No GPU Necessary!
 
 ### Installation on Windows
 1. Download the Windows self-extracting installer 
