@@ -54,3 +54,8 @@ Follow the instructions here: https://www.ilastik.org/documentation/fiji_export/
 - Check if Ilastik appears in the FIJI menus (Plugins → Ilastik)
 
 **After installing all software, restart your computer.**
+
+# Dataset and classifiers download
+
+https://filesender.belnet.be/?s=download&token=bdc51d85-3b76-43c9-961e-b9bf1d68ced1
+
