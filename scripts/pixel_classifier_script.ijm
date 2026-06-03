@@ -108,6 +108,7 @@ for (files = 0; files < fileList.length; files++) {
 		jaccard_array[files] = getResult("JaccardIndex", 0);
 	}
 	
+	selectWindow("segmented");
 	saveAs("Tiff", dir + File.separator + "processed" + File.separator + basename + ".tif");
 	
 	close("*");
